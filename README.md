@@ -1,6 +1,6 @@
 # InteractDemo
 一个在 viewcontroller 里面展示子 controller 的框架
-[demo](./demo.gif)
+![demo](./demo.gif)
 
 ## 使用指南
 导入'InterRactViewController.h' 和 'InterRactViewController.m' ,然后创建 'InterRactViewController' 的属性
