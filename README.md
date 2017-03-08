@@ -1,6 +1,6 @@
 # InteractDemo
-一个在 viewcontroller 里面展示子 controller 的框架 
-\n
+一个在 viewcontroller 里面展示子 controller 的框架   
+
 ![demo](./demo.gif)
 
 ## 使用指南
